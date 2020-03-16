@@ -8,7 +8,11 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<!-- my intellij idea 2020-03-16-->
+	<!-- my intellij idea 2020-03-16  tianjia -->
+	<!--
+	tag的位置是固定的，在给指定提交打好标签以后，它就固定于此位置。
+    分支的位置会不断变动的，随着分支的向前推移或者向后回滚，都在不断变化。
+	-->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.8</maven.compiler.source>
