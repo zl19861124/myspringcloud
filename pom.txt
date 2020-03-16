@@ -24,17 +24,17 @@
 		<spring-cloud-services.version>2.2.1.RELEASE</spring-cloud-services.version>
 		<!--  
 		spring-cloud     
-Finchley.RC2   2018Äê6ÔÂ    "Spring Boot >=2.0.2.RELEASE and <2.0.3.RELEASE"
-Finchley.SR4   ·ÒÆæÀû   "Spring Boot >=2.0.3.RELEASE and <2.0.999.BUILD-SNAPSHOT" 
-Greenwich.SR2  ¸ñÁÖÍþÖÎ  01/23/2019   "Spring Boot >=2.1.0.RELEASE and <2.1.9.BUILD-SNAPSHOT"  
-Hoxton.BUILD-SNAPSHOT  »ô¿ËË¹¶Ù 2019-11-29  "Spring Boot >=2.2.0.BUILD-SNAPSHOT"
+Finchley.RC2   2018ï¿½ï¿½6ï¿½ï¿½    "Spring Boot >=2.0.2.RELEASE and <2.0.3.RELEASE"
+Finchley.SR4   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½   "Spring Boot >=2.0.3.RELEASE and <2.0.999.BUILD-SNAPSHOT" 
+Greenwich.SR2  ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½  01/23/2019   "Spring Boot >=2.1.0.RELEASE and <2.1.9.BUILD-SNAPSHOT"  
+Hoxton.BUILD-SNAPSHOT  ï¿½ï¿½ï¿½ï¿½Ë¹ï¿½ï¿½ 2019-11-29  "Spring Boot >=2.2.0.BUILD-SNAPSHOT"
 Hoxton.SR3 Spring Boot 2020-03-06  >=2.2.5
 
-BUILD-XXX¡¡¡¡¡¡¡¡¡¡¡¡¿ª·¢°æ¡¡
-GA:General availability£ºÍ¨ÓÃ°æ±¾¡£²¢ÇÒÒÑ¾­ºÜÎÈ¶¨ÁË£¬¹¦ÄÜÆëÈ«¡£
-RC:Release candidate£º·¢²¼ºòÑ¡°æ±¾¡£¹¦ÄÜ½ÏÎªÆëÈ«£¬Ïà¶ÔÎÈ¶¨£¬ÎÊÌâÓ¦¸ÃÏà¶ÔÉÙºÍ´ÎÒª£¬ÖµµÃ±¨¸æ£¬bug½«»áÐÞ¸´¡£
-M:Milestone build£ºÀï³Ì±®°æ±¾¡£¹¦ÄÜ»¹²»È«£¬ÏîÄ¿Íê³ÉÁËÒ»¸ö¼Æ»®£¬µ«ÊÇ»¹ÊÇ¿ÉÄÜÓÐÎÊÌâµÄ¡£
-SRX:Service Release£º·þÎñ·¢²¼°æ±¾¡£ 
+BUILD-XXXï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ¡¡
+GA:General availabilityï¿½ï¿½Í¨ï¿½Ã°æ±¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ñ¾ï¿½ï¿½ï¿½ï¿½È¶ï¿½ï¿½Ë£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È«ï¿½ï¿½
+RC:Release candidateï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ñ¡ï¿½æ±¾ï¿½ï¿½ï¿½ï¿½ï¿½Ü½ï¿½Îªï¿½ï¿½È«ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó¦ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÙºÍ´ï¿½Òªï¿½ï¿½Öµï¿½Ã±ï¿½ï¿½æ£¬bugï¿½ï¿½ï¿½ï¿½ï¿½Þ¸ï¿½ï¿½ï¿½
+M:Milestone buildï¿½ï¿½ï¿½ï¿½Ì±ï¿½ï¿½æ±¾ï¿½ï¿½ï¿½ï¿½ï¿½Ü»ï¿½ï¿½ï¿½È«ï¿½ï¿½ï¿½ï¿½Ä¿ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½Æ»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç»ï¿½ï¿½Ç¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¡ï¿½
+SRX:Service Releaseï¿½ï¿½ï¿½ï¿½ï¿½ñ·¢²ï¿½ï¿½æ±¾ï¿½ï¿½ 
 		-->
 		<spring-cloud.version>Hoxton.SR3</spring-cloud.version>
 		<vaadin.version>14.1.17</vaadin.version>
